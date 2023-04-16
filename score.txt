@@ -1,2 +1,4 @@
 rohit 0
 gill 10
+kohli 45
+surya 0
