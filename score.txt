@@ -4,3 +4,5 @@ kohli 45
 surya 0
 ashwin 21
 jageja 34
+bumrah 6
+
